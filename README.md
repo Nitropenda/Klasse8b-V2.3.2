@@ -20,7 +20,7 @@ Bitte benachrichtige mich, wenn du einen Bug gefunden hast, wenn ich etwas verge
                      
 ## Download-Link (Mediafire)                     
                      
-[Klasse8b-v2.3.2](https://www.mediafire.com/file/bs622mn1916520d/klasse8b_v2.3.2.zip/file)
+[Klasse8b-v2.3.2](https://www.mediafire.com/file/7fhvzd3m7av005q/klasse8b_v2.3.2.zip/file)
                               
 ## Wie installiere ich das Texture-Pack?                     
                      
