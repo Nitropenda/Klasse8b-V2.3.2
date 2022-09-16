@@ -8,7 +8,11 @@
 -added "Samurai3002's Totem" (pattern: "Samurai3002's Totem")                     
 -updated texture "Holzmann70's Totem" (pattern: "Holzmann70's Totem")
 -updated texture "Holzmann70's Piercer" (ipattern: "Piercer") (netherite)                     
-                     
+
+### Others:
+
+-added Vanilla Tweaks HD Shield Banner Patterns
+
 (pattern="exact name")                     
 (ipattern="exact name and non exact name")                     
                      
