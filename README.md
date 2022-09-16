@@ -6,8 +6,8 @@
                                         
 -added "TheRealElr0n's Totem" (pattern: "TheRealElr0n's Totem")                 
 -added "Samurai3002's Totem" (pattern: "Samurai3002's Totem")                     
--updated texture "Holzmann70's Totem" (pattern: "Holzmann70's Totem")
--updated texture "Holzmann70's Piercer" (ipattern: "Piercer") (netherite)                     
+-updated texture "Holzmann70's Totem" (pattern: "Holzmann70's Totem")                                   
+-updated texture "Holzmann70's Piercer" (ipattern: "Piercer") (netherite)                                                
 
 ### Others:
 
